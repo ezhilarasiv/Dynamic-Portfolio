@@ -54,7 +54,7 @@ dynamic-portfolio/
 
 ## Live Demo
 
-Check out the live version of the portfolio [here]
+Check out the live version of the portfolio here "https://ezhilarasiv.github.io/Dynamic-Portfolio/"
 
 ## Contributing
 
